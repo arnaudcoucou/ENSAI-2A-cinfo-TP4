@@ -1,3 +1,7 @@
 hello Arnaud como estas?
+<<<<<<< HEAD
 ce tp est super fun n'est-ce pas?
 hfhf
+=======
+blablablabla j'ai faim et envie de dormir et envie d'un café
+>>>>>>> 39bf8c37defd02168a8809e8b37e70bcba408d1c
